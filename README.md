@@ -26,6 +26,10 @@ And for _amd64_ with:
 
     php composer.phar require h4cc/wkhtmltopdf-amd64 "0.12.4"
 
+And for _amd64_ alpine with:
+
+    php composer.phar require roshangara/wkhtmltopdf-amd64 "0.12.5"
+
 The binary will then be located at:
 
     vendor/h4cc/wkhtmltopdf-i386/bin/wkhtmltopdf-i386
